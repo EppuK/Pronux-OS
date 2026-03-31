@@ -1,6 +1,4 @@
 # Pronux-OS
-Linux distribution based on Gentoo, meant for professionals
-
 Pronux OS is a Gentoo-based Linux distribution (for now), intended for professional users only. It's primarily aimed for those, who need "wrong" type of software to function. 
 
 
