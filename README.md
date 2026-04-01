@@ -26,4 +26,5 @@ Pronux OS is a Gentoo-based Linux distribution (for now), intended for professio
 - Modified version of DWM (for now)
 - Qutebrowser (for now)
 - Pure ALSA for audio.
+- Runit as a init system (for now)
 
